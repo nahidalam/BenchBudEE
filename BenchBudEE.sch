@@ -96,8 +96,13 @@ F1 "Fan.sch" 50
 F2 "Power+" O R 8600 1150 60 
 F3 "Power-" I R 8600 1400 60 
 F4 "Tach" I R 8600 1700 60 
-F5 "Tach_out" O L 7100 1250 60 
+F5 "Tach_out" O L 7100 2200 60 
 F6 "Fan_In" I L 7100 1050 60 
+F7 "Current_Measure" O L 7100 2000 60 
+F8 "MOSI" I L 7100 1200 60 
+F9 "MISO" O L 7100 1400 60 
+F10 "CS_N" I L 7100 1600 60 
+F11 "SCLK" I L 7100 1800 60 
 $EndSheet
 $Sheet
 S 9550 1350 850  4600
