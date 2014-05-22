@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 5/21/2014 1:52:28 PM
+EESchema-DOCLIB  Version 2.0  Date: 5/21/2014 2:21:50 PM
 #
 $CMP 7SEGM
 D Afficheur Leds 7 segments
@@ -177,6 +177,11 @@ $ENDCMP
 #
 $CMP SCR
 D Thyristor
+$ENDCMP
+#
+$CMP SPDT
+D Single Pole Double Throw
+K Relay
 $ENDCMP
 #
 $CMP SPST

@@ -35,9 +35,9 @@ EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 8
+Sheet 1 9
 Title ""
-Date "21 may 2014"
+Date "22 may 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -120,5 +120,11 @@ F2 "DIN+" I L 7100 5900 60
 F3 "DIN-" O L 7100 6150 60 
 F4 "Relay+" I R 8700 5900 60 
 F5 "Relay-" O R 8700 6150 60 
+$EndSheet
+$Sheet
+S 3900 900  1950 1500
+U 537D725F
+F0 "PowerAdjustmentMonitor" 50
+F1 "PowerAdjustmentMonitor.sch" 50
 $EndSheet
 $EndSCHEMATC
