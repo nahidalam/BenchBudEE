@@ -45,12 +45,12 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 2750 3350 0    60   Input ~ 0
+Text HLabel 2000 2750 0    60   Input ~ 0
 EN
-Text HLabel 2750 3600 0    60   Input ~ 0
+Text HLabel 2000 3000 0    60   Input ~ 0
 FREQ
-Text HLabel 5300 3150 0    60   Output ~ 0
+Text HLabel 8500 3000 0    60   Output ~ 0
 String+
-Text HLabel 5300 3550 0    60   Input ~ 0
+Text HLabel 8500 3400 0    60   Input ~ 0
 String-
 $EndSCHEMATC
