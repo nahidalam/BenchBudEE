@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 9
 Title ""
-Date "22 may 2014"
+Date "24 may 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -46,15 +46,15 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text HLabel 10350 3250 0    60   Output ~ 0
-Power+
-Text HLabel 10350 3600 0    60   Input ~ 0
-Power-
+FAN_OUT+
+Text HLabel 10350 3600 0    60   Output ~ 0
+FAN_OUT-
 Text HLabel 10300 4200 0    60   Input ~ 0
-Tach
+TACH_IN
 Text HLabel 1300 4750 0    60   Output ~ 0
-Tach_out
+TACH_MEAS
 Text HLabel 1250 3900 0    60   Input ~ 0
-Fan_In
+FAN_EN_N
 $Comp
 L MOSFET_N Q?
 U 1 1 537CE089
@@ -177,7 +177,7 @@ F 3 "" H 2500 2850 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text HLabel 1350 4500 0    60   Output ~ 0
-Current_Measure
+CURR_MEAS
 Wire Wire Line
 	7650 1900 7650 2500
 Wire Wire Line
